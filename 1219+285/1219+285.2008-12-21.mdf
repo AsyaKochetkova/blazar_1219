@@ -1,0 +1,7 @@
+! Center RA: 12 21 31.69052,  Dec: +28 13 58.50019 (2000.0)
+! Established model.
+! Flux (Jy) Radius (mas)  Theta (deg)  Major FWHM (mas)  Axial ratio   Phi (deg) T \
+! Freq (Hz)     SpecIndex
+  0.202523v   0.0108618v     18.0707v    0.125078v     1.00000     150.255  1 4.32177e+10           0 
+ 0.0268704v    0.705306v     107.436v    0.597005v     1.00000     124.160  1 4.32177e+10           0 
+ 0.0226311v     2.88718v     102.169v     1.06879v     1.00000     180.000  1 4.32177e+10           0 
